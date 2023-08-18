@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Shirley-olivia/SE-Notes-Review/commits/master" target="_blank">
+  <a href="https://github.com/Shirley-olivia/SE-Notes-Review/commits/main" target="_blank">
     <img src="https://img.shields.io/github/last-commit/navendu-pottekkat/nsfw-filter?style=flat-square" alt="GitHub last commit">
   </a>
 </p>
