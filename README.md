@@ -16,4 +16,4 @@
 This project sorted out the review notes of the following subjects (continuously updating……)
 
 # 软件工程原理与实践
-[**Notes**]([https://deciduous-mitten-073.notion.site/e167876b3a4847dab5ee674de4eec13f?pvs=4]) （unfinished）
+[**Notes**](https://deciduous-mitten-073.notion.site/e167876b3a4847dab5ee674de4eec13f?pvs=4) （unfinished）
