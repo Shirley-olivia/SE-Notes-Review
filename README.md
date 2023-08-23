@@ -16,8 +16,9 @@
 This project sorted out the review notes of the following subjects (continuously updating……)
 
 # 软件工程原理与实践
-[**Notes**](https://deciduous-mitten-073.notion.site/e167876b3a4847dab5ee674de4eec13f?pvs=4) （unfinished）
-## 笔记目录
+主要整理了软件工程原理的笔记和例题（unfinished）
+## 笔记
+[**Notes**](https://deciduous-mitten-073.notion.site/e167876b3a4847dab5ee674de4eec13f?pvs=4)
 - 01 软件工程引论
 - 02 软件过程
 - 03 需求工程
@@ -29,3 +30,10 @@ This project sorted out the review notes of the following subjects (continuously
 - 09 编码和版本管理
 - 10 软件测试
 - 11 软件运维
+## 例题整理
+[**Examples**](https://deciduous-mitten-073.notion.site/cb4443d8a59f4326aa9590ad66250a42)
+- 01 用例图
+- 02 类图
+- 03 用例分析
+- 04 软件过程
+- 05 其他选择题
