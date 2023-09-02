@@ -37,3 +37,20 @@ This project sorted out the review notes of the following subjects (continuously
 - 03 用例分析
 - 04 软件过程
 - 05 其他选择题
+
+# 深入理解计算机系统
+主要整理了《深入理解计算机系统》的读书笔记、部分例题和课后习题（unfinished）
+## 读书笔记
+[**Notes**](https://deciduous-mitten-073.notion.site/CSAPP-21cebba168e94cf5bd6cf4579dc590fb?pvs=4)
+- 第一章 计算机系统漫游
+- 第二章 信息的表示和处理
+- 第三章 程序的机器级表示
+- 第四章 处理器体系结构
+- 第五章 优化程序性能
+- 第六章 存储器层次结构
+- 第七章 链接
+- 第八章 异常控制流
+- 第九章 虚拟内存
+- 第十章 系统级 I/O
+- 第十一章 网络编程
+- 第十二章 并发编程
